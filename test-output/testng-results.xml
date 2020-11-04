@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="190613" started-at="2020-11-04T03:46:16Z" finished-at="2020-11-04T03:49:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="190613" started-at="2020-11-04T03:46:16Z" finished-at="2020-11-04T03:49:27Z">
+      <class name="com.iceland.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="38675" started-at="2020-11-04T03:46:16Z" finished-at="2020-11-04T03:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="verifyHomePageTitle" duration-ms="168" started-at="2020-11-04T03:46:55Z" finished-at="2020-11-04T03:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1220" started-at="2020-11-04T03:46:55Z" finished-at="2020-11-04T03:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="39728" started-at="2020-11-04T03:46:56Z" finished-at="2020-11-04T03:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyWelcomebackTosinTest()[pri:2, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="verifyWelcomebackTosinTest" duration-ms="861" started-at="2020-11-04T03:47:36Z" finished-at="2020-11-04T03:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWelcomebackTosinTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="11901" started-at="2020-11-04T03:47:37Z" finished-at="2020-11-04T03:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="86811" started-at="2020-11-04T03:47:49Z" finished-at="2020-11-04T03:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyIcelandlogoImageHomePageTest()[pri:3, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="verifyIcelandlogoImageHomePageTest" duration-ms="115" started-at="2020-11-04T03:49:16Z" finished-at="2020-11-04T03:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIcelandlogoImageHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iceland.qa.tests.HomePageTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="11096" started-at="2020-11-04T03:49:16Z" finished-at="2020-11-04T03:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iceland.qa.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
